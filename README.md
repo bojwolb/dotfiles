@@ -1,1 +1,1 @@
-# bojwolb.github.io
+# linux stuff
